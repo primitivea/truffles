@@ -39,6 +39,9 @@ Membuat tulisan dengan bantuan website.
 
 Contohnya seperti di bawah ini
 
+.. image:: wa_miring.jpg
+   :width: 600
+   
 - Menggunakan tipe bold
 - Masukkan teks pada kolom pertama
 - Kemudian pilih tipe bold untuk membuat font menjadi lebih tebal
@@ -46,6 +49,9 @@ Contohnya seperti di bawah ini
 - Block dan copy lalu kirim di WA
 
 Terlihat perbedaan pada kedua hasil teks di atas yang mana tipe reguler akan membuat font menjadi lebih tipis sedangkan tipe Ball akan membuat font menjadi lebih tebal.
+
+.. image:: bold.jpg
+   :width: 600
 
 Buat tulisan aesthetic dengan autobild.co.id
 ------------------
@@ -61,6 +67,9 @@ Di atas merupakan cara buat tulisan miring di WA. Nah, disini akan diberikan pen
 
 Contohnya seperti di bawah ini
 
+.. image:: aesthetic.jpg
+   :width: 600
+   
 Selesai!
 
 Akhir Kata
