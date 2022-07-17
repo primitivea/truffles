@@ -40,4 +40,4 @@ WhatsApp Modifikasi memiliki keunggulan atau kelebihan dibandingkan aplikasi Wa 
 
 Itulah ulasan mengenai WhatsApp Modifikasi terbaru dengan beragam fitur dan kelebihan, lengkap juga dengan cara instalnya yang sangat mudah. Semoga bermanfaat.
 
-**Referensi**: `GB WhatsApp Official Download <https://www.sebuahutas.com/2022/02/gb-wa-pro-apk-gb-whatsapp-official.html>`_
+**Referensi**: `GB WhatsApp Official Download <https://www.sebuahutas.com/2022/06/gb-whatsapp-pro-v-download-apk-wa-gb.html>`_
