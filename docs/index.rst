@@ -77,3 +77,4 @@ Contents
    sound-of-text/index
    aplikasi-wa-modifikasi/index
    tulisan-miring/index
+   app-lock/index
