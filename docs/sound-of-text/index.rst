@@ -40,11 +40,12 @@ Menariknya lagi, Oddcast.com menyediakan tiga pilihan suara bahasa Indonesia yak
 
 Selanjutnya di halaman depan pilih bahasa yang ingin digunakan, lalu jenis suara, dan juga masukan kata maksimal 600 karakter yang ingin diubah menjadi suara. 
 
-#4 Text to Speech
+#4 Voiceoftext.com Free Google Text to Speech Downloader
 ------------------
 
-Text of the Sound gratisan berikutnya adalah Text To Speech yang punya punya banyak fitur menarik di dalamnya. Bukan hanya menawarkan fitur yang memungkinkan kamu untuk  memasukan teks tanpa batas karakter, tools ini juga menyediakan lebih dari 40 bahasa dengan empat jenis suara pada setiap bahasanya. 
-Di sini juga kamu bisa atur pemutaran suaranya berdasarkan kecepatan, volume, dan nadanya. 
+Text of the Sound gratisan berikutnya adalah `Voice of text <https://www.voiceoftext.com>`_ yang menggunakan engine Google Text To Speech yang punya punya banyak fitur menarik di dalamnya. Bukan hanya menawarkan fitur yang memungkinkan kamu untuk  memasukan teks dengan batasan karakter maksimum, tools ini juga menyediakan lebih dari 63 bahasa dengan disertai bahasa daerah Indonesia seperti bahasa Jawa dan Sunda. 
+
+Di sini juga kamu bisa atur pemutaran suaranya berdasarkan kecepatan, volume, dan nadanya. Untuk membuat sound of text nada dering WA, tools **Voiceoftext.com** ini merupakan salah satu situs paling populer yang banayk digunakan. 
 
 #5 NaturalReader
 ------------------
@@ -69,12 +70,12 @@ Dengan kelebihan tersendiri, dimana kualitas audio yang dihasilkan sama seperti 
 
 Tools ini bisa kamu pakai secara gratis lewat browser di Hp kamu, selain toolsnya Botika TTS juga tersedia dalam versi aplikasi dengan nama Voicebotika yang bisa kamu download gratis di Google Playstore. 
 
-Itulah 7 review tools sound of the text yang bisa kamu akses gratis dari browser di Hp maupun laptop/PC. Sebagian tools tersebut mendukung bahasa Indonesia plus bahasa Jawa dan Sunda. 
+Itulah 8 review tools sound of the text yang bisa kamu akses gratis dari browser di Hp maupun laptop/PC. Sebagian tools tersebut mendukung bahasa Indonesia plus bahasa Jawa dan Sunda. 
 
 Semoga informasi ini bermanfaat buat kamu yang sedang mencari tool-tool pengubah teks jadi suara atau yang dikenal dengan TTS untuk menunjang aktivitas kamu di internet.
 
 **Referensi**:
 
 - `Text to speech terbaik <https://www.sebuahutas.com/2022/04/10-text-to-speech-indonesia-terbaik.html>`_
-- `Sound of text wa <https://www.autobild.co.id/2022/04/sound-of-text-wa-di-android-dan-iphone.html>`_
-- `Cara download nada dering keren dan unik <https://www.griyawisata.com/2022/04/7-cara-download-nada-dering-wa-keren.html>`_
+- `Sound of text wa <https://www.autobild.co.id/2022/07/sound-of-text-wa-lucu-bahasa-indonesia.html>`_
+- `Download nada dering wa keren <https://www.technolati.com/2022/07/mp3-download-nada-dering-wa-keren-untuk.html>`_
