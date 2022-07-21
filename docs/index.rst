@@ -2,7 +2,7 @@
 Dokumentasi Nada Dering WhatsApp Suara Google
 ###########################################
 
-Cara Download Suara Google 'Ada Wa Masuk' - Ketika ada di tempat kerja, pernahkah kamu mendengar ada teman yang notifikasi Whatsappnya suara robot Google? Suara yang seperti itu tidak dibuat dari aplikasi Google Translate tetapi menggunakan `sound of text <https://karinov.co.id/sound-of-text-wa/>`_.
+Cara Download Suara Google 'Ada Wa Masuk' - Ketika ada di tempat kerja, pernahkah kamu mendengar ada teman yang notifikasi Whatsappnya suara robot Google? Suara yang seperti itu tidak dibuat dari aplikasi Google Translate tetapi menggunakan `sound of text <https://www.technolati.com/2022/07/5-sound-of-text-wa-bahasa-indonesia.html>`_.
 
 Sebab Google Translate tidak bisa menyimpan audio sehingga kamu bisa membuatnya melalui situs sound of text. Ada beberapa cara downlaod suara Google 'ada WA masuk’ menggunakan beberapa situs.
 
@@ -62,7 +62,27 @@ Setelah proses pembuatan audio file selesai, kamu bisa mengganti nada dering ter
 
 Dengan cara downlaod suara Google 'ada WA masuk' kamu tentunya bisa memilih situs mana yang terbaik. Setelah audionya selesai, kamu bisa menggunakan untuk berbagai notifikasi seperti chat, group atau panggilan di Whatsapp. Sekian dan terimakasih.
 
-Untuk lebih lanjut membaca mengenai nada dering wa suara Google, kamu dapat mempelajarinya lewat tulisan berikut ini: https://www.statmat.net/sound-text-nada-dering-wa/
+Cara Memasukkan Suara Google di Aplikasi TikTok
+=======================
+
+Setelah kamu mengunduh suara Google dengan menggunakan salah satu situs di atas, sekarang langkah yang harus dilakukan adalah memasukkan suara tersebut ke aplikasi TikTok. Berikut langkah-langkahnya:
+
+- Langkah 1: Buka aplikasi Tiktok yang ada di ponsel kamu
+- Langkah 2: Tekan ikon plus (+) yang berada di tengah layar untuk membuat konten baru
+- Langkah 3: Pilih durasi video yang kamu inginkan
+- Langkah 4: Mulai merekam dengan klik tombol merah yang ada di tengah aplikasi
+- Langkah 5: Rekam video yang kamu inginkan
+- Langkah 6: Pilih centang jika sudah selesai merekam video
+- Langkah 7: Pilih efek suara pada menu vertikal di sebelah kanan aplikasi
+- Langkah 8: Pada menu horizontal (di bawah aplikasi) pilih suara Google yang sudah kamu unduh
+- Langkah 9: Edit lainnya jika kamu masih memerlukannya
+- Langkah 10: Posting dan selesai
+
+Untuk lebih lanjut membaca mengenai nada dering wa suara Google, kamu dapat mempelajarinya lewat tulisan berikut ini: 
+
+- `Sound Text <https://www.statmat.net/sound-text-nada-dering-wa/>`_
+- `Sound of text Bahasa Indonesia <https://www.pelita.or.id/sound-of-text-wa/>`_
+
 
 ********
 Contents
