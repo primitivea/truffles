@@ -61,13 +61,13 @@ Situs ini sangat cocok untuk kamu yang ingin membuat nada dering dengan durasi y
 
 Setelah mengunduh nada dering, kamu bisa memasangnya di aplikasi Whatsapp. Proses pasang ringtonenya bisa dilakukan dengan mengikuti tutorial berikut:
 
-Langkah 1: Kamu bisa membuka aplikasi Whatsapp yang ada di smartphone. 
-Langkah 2: Di bagian pojok kanan atas, kamu bisa mengklik tiga titik lalu pilih setelan. 
-Langkah 3: Dari sekian pilihan yang ada, kamu bisa mengklik notifikasi. 
-Langkah 4: Pilihlah menu yang akan dipilih baik itu chat, grup, dan panggilan. 
-Langkah 5: Setelah dipilih, kamu bisa klik nada dering. 
-Langkah 6: DI posisi paling atas, kamu bisa mengklik pilih dari file. 
-Langkah 7: Silahkan kamu klik dan centang nada dering yang telah kamu unduh sebelumnya. - 
+- Langkah 1: Kamu bisa membuka aplikasi Whatsapp yang ada di smartphone. 
+- Langkah 2: Di bagian pojok kanan atas, kamu bisa mengklik tiga titik lalu pilih setelan. 
+- Langkah 3: Dari sekian pilihan yang ada, kamu bisa mengklik notifikasi. 
+- Langkah 4: Pilihlah menu yang akan dipilih baik itu chat, grup, dan panggilan. 
+- Langkah 5: Setelah dipilih, kamu bisa klik nada dering. 
+- Langkah 6: DI posisi paling atas, kamu bisa mengklik pilih dari file. 
+- Langkah 7: Silahkan kamu klik dan centang nada dering yang telah kamu unduh sebelumnya.
 
 Untuk proses pasang ringtone ini sebenarnya tidak terbatas pada aplikasi Whatsapp. Kamu bisa menggunakannya di aplikasi lain seperti alarm, reminder, SMS, telepon dan yang lainnya. 
 
